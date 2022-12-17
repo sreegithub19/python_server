@@ -1,4 +1,5 @@
 Reference: https://www.frontend-devops.com/blog/python-on-vercel
+Project URL: https://python-server-beta.vercel.app/api
 
 - yarn global add vercel
 - vercel login
